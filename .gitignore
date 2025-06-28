@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+/EXAM/dataset/
+/EXAM/TEST_EXAM/
+/report/origins/
+/lab_6/origins/
+/lab_7/origins/
